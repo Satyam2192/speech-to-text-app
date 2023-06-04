@@ -1,2 +1,3 @@
-pyaudio
-websocket-client
+streamlit==0.89.0
+pyaudio==0.2.11
+SpeechRecognition==3.8.1
